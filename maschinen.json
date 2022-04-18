@@ -1,0 +1,1504 @@
+{
+	"Maschinen": [
+		{
+			"id": "0",
+			"typ": "DM",
+			"temperatur": "39",
+			"zustand": {
+				"art": "AU",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "3.7"
+		},
+		{
+			"id": "1",
+			"typ": "FM",
+			"temperatur": "2",
+			"zustand": {
+				"art": "BE",
+				"tage": "28"
+			},
+			"schwinggeschwindigkeit": "8.5"
+		},
+		{
+			"id": "2",
+			"typ": "DM",
+			"temperatur": "88",
+			"zustand": {
+				"art": "AU",
+				"tage": "46"
+			},
+			"schwinggeschwindigkeit": "6.41"
+		},
+		{
+			"id": "3",
+			"typ": "GM",
+			"temperatur": "53",
+			"zustand": {
+				"art": "BE",
+				"tage": "5"
+			},
+			"schwinggeschwindigkeit": "4.14"
+		},
+		{
+			"id": "4",
+			"typ": "DM",
+			"temperatur": "45",
+			"zustand": {
+				"art": "BE",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "7.75"
+		},
+		{
+			"id": "5",
+			"typ": "DM",
+			"temperatur": "62",
+			"zustand": {
+				"art": "WA",
+				"tage": "23"
+			},
+			"schwinggeschwindigkeit": "5.98"
+		},
+		{
+			"id": "6",
+			"typ": "DM",
+			"temperatur": "28",
+			"zustand": {
+				"art": "BE",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "4.61"
+		},
+		{
+			"id": "7",
+			"typ": "GM",
+			"temperatur": "1",
+			"zustand": {
+				"art": "AU",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "7.52"
+		},
+		{
+			"id": "8",
+			"typ": "FM",
+			"temperatur": "50",
+			"zustand": {
+				"art": "WA",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "8.36"
+		},
+		{
+			"id": "9",
+			"typ": "FM",
+			"temperatur": "58",
+			"zustand": {
+				"art": "BE",
+				"tage": "11"
+			},
+			"schwinggeschwindigkeit": "7.58"
+		},
+		{
+			"id": "10",
+			"typ": "GM",
+			"temperatur": "71",
+			"zustand": {
+				"art": "WA",
+				"tage": "0"
+			},
+			"schwinggeschwindigkeit": "7.07"
+		},
+		{
+			"id": "11",
+			"typ": "GM",
+			"temperatur": "16",
+			"zustand": {
+				"art": "BE",
+				"tage": "32"
+			},
+			"schwinggeschwindigkeit": "3.64"
+		},
+		{
+			"id": "12",
+			"typ": "DM",
+			"temperatur": "99",
+			"zustand": {
+				"art": "AU",
+				"tage": "3"
+			},
+			"schwinggeschwindigkeit": "3.85"
+		},
+		{
+			"id": "13",
+			"typ": "DM",
+			"temperatur": "1",
+			"zustand": {
+				"art": "WA",
+				"tage": "48"
+			},
+			"schwinggeschwindigkeit": "2.04"
+		},
+		{
+			"id": "14",
+			"typ": "FM",
+			"temperatur": "38",
+			"zustand": {
+				"art": "BE",
+				"tage": "13"
+			},
+			"schwinggeschwindigkeit": "0.47"
+		},
+		{
+			"id": "15",
+			"typ": "FM",
+			"temperatur": "90",
+			"zustand": {
+				"art": "BE",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "7.06"
+		},
+		{
+			"id": "16",
+			"typ": "GM",
+			"temperatur": "50",
+			"zustand": {
+				"art": "AU",
+				"tage": "4"
+			},
+			"schwinggeschwindigkeit": "7.63"
+		},
+		{
+			"id": "17",
+			"typ": "GM",
+			"temperatur": "14",
+			"zustand": {
+				"art": "BE",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "2.5"
+		},
+		{
+			"id": "18",
+			"typ": "FM",
+			"temperatur": "41",
+			"zustand": {
+				"art": "BE",
+				"tage": "36"
+			},
+			"schwinggeschwindigkeit": "7.41"
+		},
+		{
+			"id": "19",
+			"typ": "FM",
+			"temperatur": "69",
+			"zustand": {
+				"art": "BE",
+				"tage": "12"
+			},
+			"schwinggeschwindigkeit": "6.88"
+		},
+		{
+			"id": "20",
+			"typ": "DM",
+			"temperatur": "57",
+			"zustand": {
+				"art": "WA",
+				"tage": "24"
+			},
+			"schwinggeschwindigkeit": "4.86"
+		},
+		{
+			"id": "21",
+			"typ": "GM",
+			"temperatur": "72",
+			"zustand": {
+				"art": "BE",
+				"tage": "49"
+			},
+			"schwinggeschwindigkeit": "5.62"
+		},
+		{
+			"id": "22",
+			"typ": "FM",
+			"temperatur": "62",
+			"zustand": {
+				"art": "WA",
+				"tage": "9"
+			},
+			"schwinggeschwindigkeit": "8.09"
+		},
+		{
+			"id": "23",
+			"typ": "DM",
+			"temperatur": "42",
+			"zustand": {
+				"art": "AU",
+				"tage": "39"
+			},
+			"schwinggeschwindigkeit": "1.21"
+		},
+		{
+			"id": "24",
+			"typ": "GM",
+			"temperatur": "93",
+			"zustand": {
+				"art": "WA",
+				"tage": "31"
+			},
+			"schwinggeschwindigkeit": "3.82"
+		},
+		{
+			"id": "25",
+			"typ": "DM",
+			"temperatur": "83",
+			"zustand": {
+				"art": "AU",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "0.43"
+		},
+		{
+			"id": "26",
+			"typ": "FM",
+			"temperatur": "76",
+			"zustand": {
+				"art": "BE",
+				"tage": "28"
+			},
+			"schwinggeschwindigkeit": "9.78"
+		},
+		{
+			"id": "27",
+			"typ": "FM",
+			"temperatur": "34",
+			"zustand": {
+				"art": "AU",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "7.54"
+		},
+		{
+			"id": "28",
+			"typ": "GM",
+			"temperatur": "28",
+			"zustand": {
+				"art": "AU",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "0.64"
+		},
+		{
+			"id": "29",
+			"typ": "FM",
+			"temperatur": "11",
+			"zustand": {
+				"art": "BE",
+				"tage": "9"
+			},
+			"schwinggeschwindigkeit": "0.39"
+		},
+		{
+			"id": "30",
+			"typ": "FM",
+			"temperatur": "95",
+			"zustand": {
+				"art": "AU",
+				"tage": "24"
+			},
+			"schwinggeschwindigkeit": "3.67"
+		},
+		{
+			"id": "31",
+			"typ": "FM",
+			"temperatur": "75",
+			"zustand": {
+				"art": "AU",
+				"tage": "21"
+			},
+			"schwinggeschwindigkeit": "6.22"
+		},
+		{
+			"id": "32",
+			"typ": "FM",
+			"temperatur": "99",
+			"zustand": {
+				"art": "WA",
+				"tage": "49"
+			},
+			"schwinggeschwindigkeit": "10.5"
+		},
+		{
+			"id": "33",
+			"typ": "GM",
+			"temperatur": "4",
+			"zustand": {
+				"art": "BE",
+				"tage": "33"
+			},
+			"schwinggeschwindigkeit": "10.81"
+		},
+		{
+			"id": "34",
+			"typ": "FM",
+			"temperatur": "62",
+			"zustand": {
+				"art": "BE",
+				"tage": "48"
+			},
+			"schwinggeschwindigkeit": "6.69"
+		},
+		{
+			"id": "35",
+			"typ": "GM",
+			"temperatur": "92",
+			"zustand": {
+				"art": "WA",
+				"tage": "36"
+			},
+			"schwinggeschwindigkeit": "10.74"
+		},
+		{
+			"id": "36",
+			"typ": "GM",
+			"temperatur": "26",
+			"zustand": {
+				"art": "BE",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "6.62"
+		},
+		{
+			"id": "37",
+			"typ": "GM",
+			"temperatur": "97",
+			"zustand": {
+				"art": "AU",
+				"tage": "23"
+			},
+			"schwinggeschwindigkeit": "0.54"
+		},
+		{
+			"id": "38",
+			"typ": "GM",
+			"temperatur": "69",
+			"zustand": {
+				"art": "AU",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "3.45"
+		},
+		{
+			"id": "39",
+			"typ": "GM",
+			"temperatur": "24",
+			"zustand": {
+				"art": "AU",
+				"tage": "5"
+			},
+			"schwinggeschwindigkeit": "9.72"
+		},
+		{
+			"id": "40",
+			"typ": "GM",
+			"temperatur": "78",
+			"zustand": {
+				"art": "AU",
+				"tage": "17"
+			},
+			"schwinggeschwindigkeit": "8.15"
+		},
+		{
+			"id": "41",
+			"typ": "DM",
+			"temperatur": "16",
+			"zustand": {
+				"art": "BE",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "8.41"
+		},
+		{
+			"id": "42",
+			"typ": "GM",
+			"temperatur": "7",
+			"zustand": {
+				"art": "BE",
+				"tage": "10"
+			},
+			"schwinggeschwindigkeit": "11.62"
+		},
+		{
+			"id": "43",
+			"typ": "FM",
+			"temperatur": "5",
+			"zustand": {
+				"art": "WA",
+				"tage": "8"
+			},
+			"schwinggeschwindigkeit": "1.06"
+		},
+		{
+			"id": "44",
+			"typ": "FM",
+			"temperatur": "82",
+			"zustand": {
+				"art": "BE",
+				"tage": "40"
+			},
+			"schwinggeschwindigkeit": "4.06"
+		},
+		{
+			"id": "45",
+			"typ": "FM",
+			"temperatur": "72",
+			"zustand": {
+				"art": "WA",
+				"tage": "40"
+			},
+			"schwinggeschwindigkeit": "8.34"
+		},
+		{
+			"id": "46",
+			"typ": "GM",
+			"temperatur": "63",
+			"zustand": {
+				"art": "BE",
+				"tage": "20"
+			},
+			"schwinggeschwindigkeit": "10.85"
+		},
+		{
+			"id": "47",
+			"typ": "GM",
+			"temperatur": "44",
+			"zustand": {
+				"art": "AU",
+				"tage": "2"
+			},
+			"schwinggeschwindigkeit": "0.43"
+		},
+		{
+			"id": "48",
+			"typ": "FM",
+			"temperatur": "84",
+			"zustand": {
+				"art": "BE",
+				"tage": "2"
+			},
+			"schwinggeschwindigkeit": "0.96"
+		},
+		{
+			"id": "49",
+			"typ": "FM",
+			"temperatur": "2",
+			"zustand": {
+				"art": "AU",
+				"tage": "34"
+			},
+			"schwinggeschwindigkeit": "10.22"
+		},
+		{
+			"id": "50",
+			"typ": "DM",
+			"temperatur": "9",
+			"zustand": {
+				"art": "WA",
+				"tage": "32"
+			},
+			"schwinggeschwindigkeit": "9.49"
+		},
+		{
+			"id": "51",
+			"typ": "GM",
+			"temperatur": "82",
+			"zustand": {
+				"art": "WA",
+				"tage": "19"
+			},
+			"schwinggeschwindigkeit": "2.3"
+		},
+		{
+			"id": "52",
+			"typ": "GM",
+			"temperatur": "18",
+			"zustand": {
+				"art": "BE",
+				"tage": "1"
+			},
+			"schwinggeschwindigkeit": "9.19"
+		},
+		{
+			"id": "53",
+			"typ": "FM",
+			"temperatur": "4",
+			"zustand": {
+				"art": "WA",
+				"tage": "13"
+			},
+			"schwinggeschwindigkeit": "2.21"
+		},
+		{
+			"id": "54",
+			"typ": "GM",
+			"temperatur": "72",
+			"zustand": {
+				"art": "WA",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "2.72"
+		},
+		{
+			"id": "55",
+			"typ": "GM",
+			"temperatur": "99",
+			"zustand": {
+				"art": "BE",
+				"tage": "12"
+			},
+			"schwinggeschwindigkeit": "1.37"
+		},
+		{
+			"id": "56",
+			"typ": "GM",
+			"temperatur": "17",
+			"zustand": {
+				"art": "WA",
+				"tage": "49"
+			},
+			"schwinggeschwindigkeit": "9.91"
+		},
+		{
+			"id": "57",
+			"typ": "FM",
+			"temperatur": "54",
+			"zustand": {
+				"art": "BE",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "11.91"
+		},
+		{
+			"id": "58",
+			"typ": "FM",
+			"temperatur": "63",
+			"zustand": {
+				"art": "BE",
+				"tage": "39"
+			},
+			"schwinggeschwindigkeit": "5.78"
+		},
+		{
+			"id": "59",
+			"typ": "DM",
+			"temperatur": "27",
+			"zustand": {
+				"art": "BE",
+				"tage": "34"
+			},
+			"schwinggeschwindigkeit": "3.74"
+		},
+		{
+			"id": "60",
+			"typ": "GM",
+			"temperatur": "68",
+			"zustand": {
+				"art": "AU",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "3.42"
+		},
+		{
+			"id": "61",
+			"typ": "GM",
+			"temperatur": "32",
+			"zustand": {
+				"art": "AU",
+				"tage": "29"
+			},
+			"schwinggeschwindigkeit": "10.89"
+		},
+		{
+			"id": "62",
+			"typ": "GM",
+			"temperatur": "60",
+			"zustand": {
+				"art": "WA",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "6.86"
+		},
+		{
+			"id": "63",
+			"typ": "FM",
+			"temperatur": "17",
+			"zustand": {
+				"art": "WA",
+				"tage": "47"
+			},
+			"schwinggeschwindigkeit": "0.7"
+		},
+		{
+			"id": "64",
+			"typ": "DM",
+			"temperatur": "49",
+			"zustand": {
+				"art": "WA",
+				"tage": "8"
+			},
+			"schwinggeschwindigkeit": "10.52"
+		},
+		{
+			"id": "65",
+			"typ": "GM",
+			"temperatur": "33",
+			"zustand": {
+				"art": "AU",
+				"tage": "20"
+			},
+			"schwinggeschwindigkeit": "3.2"
+		},
+		{
+			"id": "66",
+			"typ": "DM",
+			"temperatur": "27",
+			"zustand": {
+				"art": "WA",
+				"tage": "23"
+			},
+			"schwinggeschwindigkeit": "1.88"
+		},
+		{
+			"id": "67",
+			"typ": "GM",
+			"temperatur": "2",
+			"zustand": {
+				"art": "BE",
+				"tage": "19"
+			},
+			"schwinggeschwindigkeit": "6.78"
+		},
+		{
+			"id": "68",
+			"typ": "GM",
+			"temperatur": "56",
+			"zustand": {
+				"art": "AU",
+				"tage": "13"
+			},
+			"schwinggeschwindigkeit": "5.58"
+		},
+		{
+			"id": "69",
+			"typ": "DM",
+			"temperatur": "98",
+			"zustand": {
+				"art": "BE",
+				"tage": "20"
+			},
+			"schwinggeschwindigkeit": "6.22"
+		},
+		{
+			"id": "70",
+			"typ": "FM",
+			"temperatur": "54",
+			"zustand": {
+				"art": "WA",
+				"tage": "46"
+			},
+			"schwinggeschwindigkeit": "7.94"
+		},
+		{
+			"id": "71",
+			"typ": "DM",
+			"temperatur": "96",
+			"zustand": {
+				"art": "BE",
+				"tage": "29"
+			},
+			"schwinggeschwindigkeit": "2.86"
+		},
+		{
+			"id": "72",
+			"typ": "GM",
+			"temperatur": "30",
+			"zustand": {
+				"art": "BE",
+				"tage": "30"
+			},
+			"schwinggeschwindigkeit": "10.24"
+		},
+		{
+			"id": "73",
+			"typ": "GM",
+			"temperatur": "69",
+			"zustand": {
+				"art": "AU",
+				"tage": "13"
+			},
+			"schwinggeschwindigkeit": "0.46"
+		},
+		{
+			"id": "74",
+			"typ": "FM",
+			"temperatur": "22",
+			"zustand": {
+				"art": "BE",
+				"tage": "17"
+			},
+			"schwinggeschwindigkeit": "2.83"
+		},
+		{
+			"id": "75",
+			"typ": "DM",
+			"temperatur": "45",
+			"zustand": {
+				"art": "BE",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "2.44"
+		},
+		{
+			"id": "76",
+			"typ": "GM",
+			"temperatur": "96",
+			"zustand": {
+				"art": "WA",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "7.95"
+		},
+		{
+			"id": "77",
+			"typ": "DM",
+			"temperatur": "36",
+			"zustand": {
+				"art": "WA",
+				"tage": "44"
+			},
+			"schwinggeschwindigkeit": "7.45"
+		},
+		{
+			"id": "78",
+			"typ": "FM",
+			"temperatur": "7",
+			"zustand": {
+				"art": "BE",
+				"tage": "49"
+			},
+			"schwinggeschwindigkeit": "5.72"
+		},
+		{
+			"id": "79",
+			"typ": "DM",
+			"temperatur": "63",
+			"zustand": {
+				"art": "BE",
+				"tage": "22"
+			},
+			"schwinggeschwindigkeit": "4.65"
+		},
+		{
+			"id": "80",
+			"typ": "DM",
+			"temperatur": "7",
+			"zustand": {
+				"art": "BE",
+				"tage": "6"
+			},
+			"schwinggeschwindigkeit": "11.91"
+		},
+		{
+			"id": "81",
+			"typ": "GM",
+			"temperatur": "33",
+			"zustand": {
+				"art": "BE",
+				"tage": "41"
+			},
+			"schwinggeschwindigkeit": "7.72"
+		},
+		{
+			"id": "82",
+			"typ": "GM",
+			"temperatur": "48",
+			"zustand": {
+				"art": "BE",
+				"tage": "4"
+			},
+			"schwinggeschwindigkeit": "4.16"
+		},
+		{
+			"id": "83",
+			"typ": "DM",
+			"temperatur": "66",
+			"zustand": {
+				"art": "AU",
+				"tage": "46"
+			},
+			"schwinggeschwindigkeit": "10.96"
+		},
+		{
+			"id": "84",
+			"typ": "FM",
+			"temperatur": "60",
+			"zustand": {
+				"art": "WA",
+				"tage": "46"
+			},
+			"schwinggeschwindigkeit": "1.04"
+		},
+		{
+			"id": "85",
+			"typ": "DM",
+			"temperatur": "34",
+			"zustand": {
+				"art": "AU",
+				"tage": "31"
+			},
+			"schwinggeschwindigkeit": "1.04"
+		},
+		{
+			"id": "86",
+			"typ": "DM",
+			"temperatur": "61",
+			"zustand": {
+				"art": "WA",
+				"tage": "13"
+			},
+			"schwinggeschwindigkeit": "2.68"
+		},
+		{
+			"id": "87",
+			"typ": "DM",
+			"temperatur": "77",
+			"zustand": {
+				"art": "WA",
+				"tage": "30"
+			},
+			"schwinggeschwindigkeit": "11.93"
+		},
+		{
+			"id": "88",
+			"typ": "GM",
+			"temperatur": "13",
+			"zustand": {
+				"art": "WA",
+				"tage": "46"
+			},
+			"schwinggeschwindigkeit": "10.8"
+		},
+		{
+			"id": "89",
+			"typ": "GM",
+			"temperatur": "76",
+			"zustand": {
+				"art": "AU",
+				"tage": "50"
+			},
+			"schwinggeschwindigkeit": "7.31"
+		},
+		{
+			"id": "90",
+			"typ": "GM",
+			"temperatur": "14",
+			"zustand": {
+				"art": "WA",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "3.11"
+		},
+		{
+			"id": "91",
+			"typ": "DM",
+			"temperatur": "84",
+			"zustand": {
+				"art": "BE",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "1.37"
+		},
+		{
+			"id": "92",
+			"typ": "DM",
+			"temperatur": "73",
+			"zustand": {
+				"art": "WA",
+				"tage": "30"
+			},
+			"schwinggeschwindigkeit": "2.79"
+		},
+		{
+			"id": "93",
+			"typ": "DM",
+			"temperatur": "45",
+			"zustand": {
+				"art": "WA",
+				"tage": "26"
+			},
+			"schwinggeschwindigkeit": "10.74"
+		},
+		{
+			"id": "94",
+			"typ": "DM",
+			"temperatur": "58",
+			"zustand": {
+				"art": "WA",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "6.22"
+		},
+		{
+			"id": "95",
+			"typ": "DM",
+			"temperatur": "13",
+			"zustand": {
+				"art": "AU",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "6.29"
+		},
+		{
+			"id": "96",
+			"typ": "FM",
+			"temperatur": "9",
+			"zustand": {
+				"art": "BE",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "11.87"
+		},
+		{
+			"id": "97",
+			"typ": "GM",
+			"temperatur": "31",
+			"zustand": {
+				"art": "WA",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "11.15"
+		},
+		{
+			"id": "98",
+			"typ": "DM",
+			"temperatur": "90",
+			"zustand": {
+				"art": "WA",
+				"tage": "1"
+			},
+			"schwinggeschwindigkeit": "11.17"
+		},
+		{
+			"id": "99",
+			"typ": "GM",
+			"temperatur": "74",
+			"zustand": {
+				"art": "AU",
+				"tage": "31"
+			},
+			"schwinggeschwindigkeit": "2.02"
+		},
+		{
+			"id": "100",
+			"typ": "GM",
+			"temperatur": "30",
+			"zustand": {
+				"art": "WA",
+				"tage": "22"
+			},
+			"schwinggeschwindigkeit": "11.17"
+		},
+		{
+			"id": "101",
+			"typ": "GM",
+			"temperatur": "24",
+			"zustand": {
+				"art": "BE",
+				"tage": "39"
+			},
+			"schwinggeschwindigkeit": "11.53"
+		},
+		{
+			"id": "102",
+			"typ": "FM",
+			"temperatur": "64",
+			"zustand": {
+				"art": "BE",
+				"tage": "44"
+			},
+			"schwinggeschwindigkeit": "10.8"
+		},
+		{
+			"id": "103",
+			"typ": "DM",
+			"temperatur": "44",
+			"zustand": {
+				"art": "AU",
+				"tage": "20"
+			},
+			"schwinggeschwindigkeit": "5.45"
+		},
+		{
+			"id": "104",
+			"typ": "FM",
+			"temperatur": "98",
+			"zustand": {
+				"art": "AU",
+				"tage": "39"
+			},
+			"schwinggeschwindigkeit": "9.1"
+		},
+		{
+			"id": "105",
+			"typ": "FM",
+			"temperatur": "66",
+			"zustand": {
+				"art": "WA",
+				"tage": "27"
+			},
+			"schwinggeschwindigkeit": "7.79"
+		},
+		{
+			"id": "106",
+			"typ": "DM",
+			"temperatur": "1",
+			"zustand": {
+				"art": "AU",
+				"tage": "17"
+			},
+			"schwinggeschwindigkeit": "0.59"
+		},
+		{
+			"id": "107",
+			"typ": "FM",
+			"temperatur": "100",
+			"zustand": {
+				"art": "WA",
+				"tage": "5"
+			},
+			"schwinggeschwindigkeit": "3.42"
+		},
+		{
+			"id": "108",
+			"typ": "FM",
+			"temperatur": "56",
+			"zustand": {
+				"art": "WA",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "4.52"
+		},
+		{
+			"id": "109",
+			"typ": "DM",
+			"temperatur": "87",
+			"zustand": {
+				"art": "AU",
+				"tage": "30"
+			},
+			"schwinggeschwindigkeit": "9.39"
+		},
+		{
+			"id": "110",
+			"typ": "FM",
+			"temperatur": "56",
+			"zustand": {
+				"art": "WA",
+				"tage": "1"
+			},
+			"schwinggeschwindigkeit": "0.63"
+		},
+		{
+			"id": "111",
+			"typ": "GM",
+			"temperatur": "99",
+			"zustand": {
+				"art": "BE",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "5.06"
+		},
+		{
+			"id": "112",
+			"typ": "DM",
+			"temperatur": "85",
+			"zustand": {
+				"art": "BE",
+				"tage": "3"
+			},
+			"schwinggeschwindigkeit": "9.72"
+		},
+		{
+			"id": "113",
+			"typ": "DM",
+			"temperatur": "69",
+			"zustand": {
+				"art": "WA",
+				"tage": "15"
+			},
+			"schwinggeschwindigkeit": "8.03"
+		},
+		{
+			"id": "114",
+			"typ": "DM",
+			"temperatur": "94",
+			"zustand": {
+				"art": "WA",
+				"tage": "27"
+			},
+			"schwinggeschwindigkeit": "11.99"
+		},
+		{
+			"id": "115",
+			"typ": "DM",
+			"temperatur": "30",
+			"zustand": {
+				"art": "AU",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "5.36"
+		},
+		{
+			"id": "116",
+			"typ": "GM",
+			"temperatur": "29",
+			"zustand": {
+				"art": "AU",
+				"tage": "13"
+			},
+			"schwinggeschwindigkeit": "5.66"
+		},
+		{
+			"id": "117",
+			"typ": "DM",
+			"temperatur": "33",
+			"zustand": {
+				"art": "AU",
+				"tage": "41"
+			},
+			"schwinggeschwindigkeit": "7.46"
+		},
+		{
+			"id": "118",
+			"typ": "DM",
+			"temperatur": "72",
+			"zustand": {
+				"art": "WA",
+				"tage": "19"
+			},
+			"schwinggeschwindigkeit": "7.91"
+		},
+		{
+			"id": "119",
+			"typ": "DM",
+			"temperatur": "4",
+			"zustand": {
+				"art": "WA",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "8.43"
+		},
+		{
+			"id": "120",
+			"typ": "DM",
+			"temperatur": "63",
+			"zustand": {
+				"art": "AU",
+				"tage": "25"
+			},
+			"schwinggeschwindigkeit": "8.58"
+		},
+		{
+			"id": "121",
+			"typ": "GM",
+			"temperatur": "17",
+			"zustand": {
+				"art": "BE",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "3.33"
+		},
+		{
+			"id": "122",
+			"typ": "FM",
+			"temperatur": "71",
+			"zustand": {
+				"art": "WA",
+				"tage": "41"
+			},
+			"schwinggeschwindigkeit": "6.96"
+		},
+		{
+			"id": "123",
+			"typ": "DM",
+			"temperatur": "60",
+			"zustand": {
+				"art": "BE",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "0.79"
+		},
+		{
+			"id": "124",
+			"typ": "GM",
+			"temperatur": "73",
+			"zustand": {
+				"art": "BE",
+				"tage": "19"
+			},
+			"schwinggeschwindigkeit": "1.38"
+		},
+		{
+			"id": "125",
+			"typ": "GM",
+			"temperatur": "67",
+			"zustand": {
+				"art": "BE",
+				"tage": "23"
+			},
+			"schwinggeschwindigkeit": "11.76"
+		},
+		{
+			"id": "126",
+			"typ": "GM",
+			"temperatur": "25",
+			"zustand": {
+				"art": "WA",
+				"tage": "23"
+			},
+			"schwinggeschwindigkeit": "2.19"
+		},
+		{
+			"id": "127",
+			"typ": "DM",
+			"temperatur": "45",
+			"zustand": {
+				"art": "WA",
+				"tage": "4"
+			},
+			"schwinggeschwindigkeit": "3.52"
+		},
+		{
+			"id": "128",
+			"typ": "FM",
+			"temperatur": "39",
+			"zustand": {
+				"art": "BE",
+				"tage": "4"
+			},
+			"schwinggeschwindigkeit": "8.29"
+		},
+		{
+			"id": "129",
+			"typ": "DM",
+			"temperatur": "68",
+			"zustand": {
+				"art": "WA",
+				"tage": "35"
+			},
+			"schwinggeschwindigkeit": "2.02"
+		},
+		{
+			"id": "130",
+			"typ": "FM",
+			"temperatur": "55",
+			"zustand": {
+				"art": "AU",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "8.29"
+		},
+		{
+			"id": "131",
+			"typ": "FM",
+			"temperatur": "54",
+			"zustand": {
+				"art": "AU",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "0.56"
+		},
+		{
+			"id": "132",
+			"typ": "FM",
+			"temperatur": "26",
+			"zustand": {
+				"art": "WA",
+				"tage": "19"
+			},
+			"schwinggeschwindigkeit": "6.37"
+		},
+		{
+			"id": "133",
+			"typ": "GM",
+			"temperatur": "69",
+			"zustand": {
+				"art": "BE",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "0.57"
+		},
+		{
+			"id": "134",
+			"typ": "DM",
+			"temperatur": "21",
+			"zustand": {
+				"art": "BE",
+				"tage": "26"
+			},
+			"schwinggeschwindigkeit": "1.16"
+		},
+		{
+			"id": "135",
+			"typ": "GM",
+			"temperatur": "54",
+			"zustand": {
+				"art": "BE",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "11.01"
+		},
+		{
+			"id": "136",
+			"typ": "DM",
+			"temperatur": "3",
+			"zustand": {
+				"art": "AU",
+				"tage": "1"
+			},
+			"schwinggeschwindigkeit": "9.39"
+		},
+		{
+			"id": "137",
+			"typ": "DM",
+			"temperatur": "32",
+			"zustand": {
+				"art": "AU",
+				"tage": "20"
+			},
+			"schwinggeschwindigkeit": "7.74"
+		},
+		{
+			"id": "138",
+			"typ": "DM",
+			"temperatur": "36",
+			"zustand": {
+				"art": "WA",
+				"tage": "20"
+			},
+			"schwinggeschwindigkeit": "4.91"
+		},
+		{
+			"id": "139",
+			"typ": "GM",
+			"temperatur": "7",
+			"zustand": {
+				"art": "BE",
+				"tage": "5"
+			},
+			"schwinggeschwindigkeit": "10.97"
+		},
+		{
+			"id": "140",
+			"typ": "DM",
+			"temperatur": "55",
+			"zustand": {
+				"art": "BE",
+				"tage": "40"
+			},
+			"schwinggeschwindigkeit": "10.35"
+		},
+		{
+			"id": "141",
+			"typ": "GM",
+			"temperatur": "44",
+			"zustand": {
+				"art": "WA",
+				"tage": "38"
+			},
+			"schwinggeschwindigkeit": "11.1"
+		},
+		{
+			"id": "142",
+			"typ": "FM",
+			"temperatur": "6",
+			"zustand": {
+				"art": "AU",
+				"tage": "37"
+			},
+			"schwinggeschwindigkeit": "7.13"
+		},
+		{
+			"id": "143",
+			"typ": "DM",
+			"temperatur": "28",
+			"zustand": {
+				"art": "WA",
+				"tage": "28"
+			},
+			"schwinggeschwindigkeit": "5.85"
+		},
+		{
+			"id": "144",
+			"typ": "DM",
+			"temperatur": "51",
+			"zustand": {
+				"art": "BE",
+				"tage": "14"
+			},
+			"schwinggeschwindigkeit": "2.38"
+		},
+		{
+			"id": "145",
+			"typ": "DM",
+			"temperatur": "46",
+			"zustand": {
+				"art": "WA",
+				"tage": "29"
+			},
+			"schwinggeschwindigkeit": "2.08"
+		},
+		{
+			"id": "146",
+			"typ": "GM",
+			"temperatur": "40",
+			"zustand": {
+				"art": "BE",
+				"tage": "18"
+			},
+			"schwinggeschwindigkeit": "11.48"
+		},
+		{
+			"id": "147",
+			"typ": "FM",
+			"temperatur": "45",
+			"zustand": {
+				"art": "WA",
+				"tage": "0"
+			},
+			"schwinggeschwindigkeit": "1.57"
+		},
+		{
+			"id": "148",
+			"typ": "GM",
+			"temperatur": "64",
+			"zustand": {
+				"art": "BE",
+				"tage": "25"
+			},
+			"schwinggeschwindigkeit": "10.56"
+		},
+		{
+			"id": "149",
+			"typ": "GM",
+			"temperatur": "9",
+			"zustand": {
+				"art": "AU",
+				"tage": "16"
+			},
+			"schwinggeschwindigkeit": "5.41"
+		}
+	]
+}
