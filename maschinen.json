@@ -1,15 +1,5 @@
 {
-	"Maschinen": [
-		{
-			"id": "0",
-			"typ": "DM",
-			"temperatur": "39",
-			"zustand": {
-				"art": "AU",
-				"tage": "43"
-			},
-			"schwinggeschwindigkeit": "3.7"
-		},
+	"Maschinen": [		
 		{
 			"id": "1",
 			"typ": "FM",
@@ -1499,6 +1489,16 @@
 				"tage": "16"
 			},
 			"schwinggeschwindigkeit": "5.41"
-		}
+		},
+		{
+			"id": "150",
+			"typ": "DM",
+			"temperatur": "39",
+			"zustand": {
+				"art": "AU",
+				"tage": "43"
+			},
+			"schwinggeschwindigkeit": "3.7"
+		},
 	]
 }
